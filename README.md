@@ -16,6 +16,6 @@ The main materials for this unit will be stored on Microsoft Learn.  Use your ac
 
 |Lesson |Objectives | Lab Exercises | Assessment
 | ----------- | ----------- | ----------- | ----------- |
-| 1.1 - Intro to GitHub |<ul><li>Identify the fundamental features of GitHub.</li><li>Learn about code repository management</li><li>Learn about Open Source Community</li><li>Create your GitHub Profile ReadMe</li></ul> | blah | 
+| 1.1 - Intro to GitHub |<ul><li>Identify the fundamental features of GitHub.</li><li>Learn about code repository management</li><li>Learn about Open Source Community</li><li>Create your GitHub Profile ReadMe</li></ul> | [Unit 1.1](/unit%201.1/ReadMe.md) | 
 | 1.2 - Intro to Generative AI & Prompt Engineering |<ul><li>Understand what generative AI can do and how it appears in today's applications.</li><li>Understand how language models can understand and generate language.</li><li>Learn about prompt engineering and how you can engineer good prompts and quality responses.</li></ul> | blah | 
 | 1.3 - Pair Programming with Copilot |<ul><li>Enable the GitHub Copilot extension in Visual Studio Code.</li><li>Craft prompts that can generate useful suggestions from GitHub Copilot.</li><li>Use GitHub Copilot to improve a Python project.</li><li>Build a Python Game with Copilot</li></ul> | blah | 
