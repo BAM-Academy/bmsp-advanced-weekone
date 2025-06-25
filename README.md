@@ -8,9 +8,11 @@
 Welcome to your first week of the program! This week is all about launching your journey into the world of coding and artificial intelligence.  You'll start by learning GitHub – the platform where millions of developers store, share, and collaborate on code. Think of it as your professional portfolio where you'll create a profile that showcases your growing skills and projects. You'll also dive into the world of Generative AI and discover how tools like GitHub Copilot can assist you in writing code more efficiently. By understanding prompt engineering and AI collaboration, you'll learn to communicate effectively with these powerful tools. By the end of the week, you'll have hands-on experience with version control, a polished GitHub presence, and your first taste of AI-assisted programming. Welcome to the intersection of software development and cutting-edge technology.
 
 ## 📘Prerequisites
-- Some basic Python programming will be required.
-- 
+- Some basic Python programming will be required.  If you need a refresher on syntax, here is a [good resource](https://www.w3schools.com/python/python_getstarted.asp).
+- Setup your Learn Account.  Sign into [Microsoft Learn](https://aka.ms/learn) with your personal email address(not BAM) and select "student" as the role in your profile. You can now begin tracking progress on learning activities, sharing your progress, accruing points and achievements, using free Azure resources, and getting personalized recommendations.
+    
 ## 📌 Lesson Plan
+The main materials for this unit will be stored on Microsoft Learn.  Use your account created above to login for access to course content.
 
 |Lesson |Objectives | Lab Exercises | Assessment
 | ----------- | ----------- | ----------- | ----------- |
