@@ -1,5 +1,6 @@
 # Blacks at Microsoft Summer Mentorship Program - Advanced Program
 
+![logo](https://github.githubassets.com/assets/blacktocats-starting-the-trend-1c51f09a9129.webp)
 ## Welcome to Unit 1 - "Hello World: Launching into AI & Code"
 
 ## Overview and Goals
